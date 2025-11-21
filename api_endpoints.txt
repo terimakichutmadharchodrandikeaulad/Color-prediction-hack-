@@ -1,0 +1,5 @@
+# API Endpoints Found
+
+- https://api.bdg88zf.com
+- https://www.youtube.com/iframe_api
+- https://www.google.com/ccm/geo
